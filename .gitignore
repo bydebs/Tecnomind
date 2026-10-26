@@ -1,6 +1,5 @@
 IDEIAS.TXT
 .env
-back-end/node_modules/
-__pycache__/
+node_modules
 
 back-end/backup_render.sql
