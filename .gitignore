@@ -1,0 +1,5 @@
+IDEIAS.TXT
+.env
+node_modules
+
+back-end/backup_render.sql
